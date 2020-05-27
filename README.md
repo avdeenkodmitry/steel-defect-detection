@@ -7,8 +7,9 @@
 
 ### Подготовка данных
 
-Необходимо скачать данные, предоставляемые компанией Северсталь.
- [Ссылка](https://www.kaggle.com/c/severstal-steel-defect-detection/data).
+Необходимо скачать данные, предоставляемые компанией Северсталь по
+ [ссылке](https://www.kaggle.com/c/severstal-steel-defect-detection/data).
+
 Разархивируйте и положите данные в папку `../Input` .  
 
 Структура папки `../Input`:
