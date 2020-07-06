@@ -21,7 +21,7 @@ sample_submission.csv
 train.csv
 ```
 
-Создайте ссылки на данные:
+Создайте ссылки(symlinks) на данные:
 
 ```bash
 cd Kaggle-Steel-Defect-Detection/datasets/steel_data
